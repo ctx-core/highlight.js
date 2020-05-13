@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "1.1.94",
+	"version": "1.1.95",
 	"description": "ctx-core highlight.js",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -29,8 +29,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.13.4",
-		"@ctx-core/function": "^13.0.0"
+		"@ctx-core/dom": "^5.13.5",
+		"@ctx-core/function": "^13.0.1"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.2"
