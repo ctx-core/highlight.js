@@ -2,9 +2,9 @@
 	"name": "@ctx-core/highlight.js",
 	"version": "1.1.115",
 	"description": "ctx-core highlight.js",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
