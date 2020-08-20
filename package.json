@@ -33,7 +33,7 @@
 		"@ctx-core/function": "^13.2.3"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.7"
+		"typescript": "^4.0.2"
 	},
 	"gitHead": "a37c4c5dda27e11d11e2d57a492a7e4c67e9f81f"
 }
