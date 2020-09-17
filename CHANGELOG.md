@@ -1,6 +1,16 @@
 # @ctx-core/highlight.js
 
+## 1.1.170
+
+### Patch Changes
+
+- fix: npm run compile: path to tsc
+- Updated dependencies [undefined]
+  - @ctx-core/dom@6.0.37
+  - @ctx-core/function@15.0.1
+
 ## 1.1.169
+
 ### Patch Changes
 
 - Updated dependencies [undefined]
