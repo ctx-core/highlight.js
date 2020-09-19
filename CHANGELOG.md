@@ -1,5 +1,17 @@
 # @ctx-core/highlight.js
 
+## 2.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@7.0.0
+  - @ctx-core/function@16.0.0
+
 ## 1.1.170
 
 ### Patch Changes
