@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 2.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/dom@7.0.2
+
 ## 2.0.1
 
 ### Patch Changes
