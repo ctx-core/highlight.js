@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 2.0.65
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+- Updated dependencies [undefined]
+  - @ctx-core/dom@7.1.17
+  - @ctx-core/function@16.1.4
+
 ## 2.0.64
 
 ### Patch Changes
