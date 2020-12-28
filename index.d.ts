@@ -1,1 +1,1 @@
-export * from './lib';
+export * from './refresh_initHighlighting';

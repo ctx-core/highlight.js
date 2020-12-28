@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 2.1.0
+
+### Minor Changes
+
+- export interface initHighlighting
+- refresh_initHighlighting as refresh\_\_initHighlighting
+- export type HLJSApi = typeof hljs
+
 ## 2.0.74
 
 ### Patch Changes
