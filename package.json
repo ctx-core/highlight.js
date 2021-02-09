@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "3.0.12",
+	"version": "3.0.13",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.1.9",
+		"@ctx-core/dom": "workspace:^8.1.10",
 		"@ctx-core/function": "workspace:^17.3.0"
 	},
 	"devDependencies": {
