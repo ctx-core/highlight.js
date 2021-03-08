@@ -1,5 +1,17 @@
 # @ctx-core/highlight.js
 
+## 3.0.33
+
+### Patch Changes
+
+- @ctx-core/dom@8.2.11
+
+## 3.0.32
+
+### Patch Changes
+
+- @ctx-core/dom@8.2.10
+
 ## 3.0.31
 
 ### Patch Changes
