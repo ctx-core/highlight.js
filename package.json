@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "3.0.35",
+	"version": "3.0.36",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -22,13 +22,13 @@
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "./node_modules/.bin/tsc -b",
+		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.12",
-		"@ctx-core/function": "workspace:^17.4.1"
+		"@ctx-core/dom": "workspace:^8.2.13",
+		"@ctx-core/function": "workspace:^17.4.2"
 	},
 	"devDependencies": {
 		"@types/highlightjs": "^10.1.0",

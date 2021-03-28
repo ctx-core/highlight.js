@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 3.0.36
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.13
+  - @ctx-core/function@17.4.2
+
 ## 3.0.35
 
 ### Patch Changes
