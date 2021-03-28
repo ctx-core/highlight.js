@@ -1,5 +1,11 @@
 # @ctx-core/highlight.js
 
+## 3.0.35
+
+### Patch Changes
+
+- 39607cca5: highlight.js: ^10.6.0 -> ^10.7.1
+
 ## 3.0.34
 
 ### Patch Changes
