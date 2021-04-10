@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.18",
+		"@ctx-core/dom": "workspace:^8.2.19",
 		"@ctx-core/function": "workspace:^17.4.6"
 	},
 	"devDependencies": {
