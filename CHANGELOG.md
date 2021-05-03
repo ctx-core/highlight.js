@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 3.0.49
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.45
+
 ## 3.0.48
 
 ### Patch Changes
