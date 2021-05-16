@@ -1,5 +1,11 @@
 # @ctx-core/highlight.js
 
+## 3.0.60
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.59
 
 ### Patch Changes
