@@ -1,5 +1,19 @@
 # @ctx-core/highlight.js
 
+## 4.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.0
+  - @ctx-core/function@18.0.0
+
 ## 3.1.2
 
 ### Patch Changes
