@@ -1,5 +1,17 @@
 # @ctx-core/highlight.js
 
+## 4.0.3
+
+### Patch Changes
+
+- update dependencies
+
+## 4.0.2
+
+### Patch Changes
+
+- highlight.js: ^10.7.2 -> ^11.0.0
+
 ## 4.0.1
 
 ### Patch Changes
