@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 4.0.7
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.9
+  - @ctx-core/function@18.1.2
+
 ## 4.0.6
 
 ### Patch Changes

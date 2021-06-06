@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "4.0.6",
+	"version": "4.0.7",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -21,14 +21,14 @@
 	"types": "./src/index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^9.0.8",
-		"@ctx-core/function": "workspace:^18.1.1"
+		"@ctx-core/dom": "workspace:^9.0.9",
+		"@ctx-core/function": "workspace:^18.1.2"
 	},
 	"devDependencies": {
 		"highlight.js": "^11.0.1",
