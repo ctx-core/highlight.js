@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 4.0.14
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.4
+  - @ctx-core/function@19.1.3
+
 ## 4.0.13
 
 ### Patch Changes
