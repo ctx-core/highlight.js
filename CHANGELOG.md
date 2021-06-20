@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 4.0.17
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.7
+  - @ctx-core/function@19.1.6
+
 ## 4.0.16
 
 ### Patch Changes
