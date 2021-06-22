@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 4.0.18
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.8
+  - @ctx-core/function@19.1.7
+
 ## 4.0.17
 
 ### Patch Changes
