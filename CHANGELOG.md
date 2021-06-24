@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 4.0.19
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.10
+  - @ctx-core/function@19.1.8
+
 ## 4.0.18
 
 ### Patch Changes

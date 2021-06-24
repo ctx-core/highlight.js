@@ -22,9 +22,7 @@
 		],
 		"outDir": ".",
 		"declarationDir": ".",
-		"lib": [
-			"dom"
-		],
+		"lib": ["dom", "ESNext"],
 		"importsNotUsedAsValues": "error",
 		"strict": true
 	},
