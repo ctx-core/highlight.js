@@ -1,4 +1,4 @@
-import type { HLJSApi } from './HLJSApi';
+import type { HLJSApi } from './HLJSApi.js';
 /**
  * Calls `hljs.initHighlighting` in a DOM environment with dynamically loaded content.
  * @param {HighlightJS} hljs

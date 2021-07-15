@@ -1,2 +1,2 @@
-export * from './HLJSApi';
-export * from './refresh_initHighlighting';
+export * from './HLJSApi.js';
+export * from './refresh_initHighlighting.js';
