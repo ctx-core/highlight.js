@@ -1,5 +1,17 @@
 # @ctx-core/highlight.js
 
+## 5.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.0
+  - @ctx-core/function@20.0.0
+
 ## 4.0.30
 
 ### Patch Changes
