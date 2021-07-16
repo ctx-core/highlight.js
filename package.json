@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.0.6",
+	"version": "5.0.7",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
+	"main": "./dist/index.cjs",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"scripts": {
@@ -29,8 +29,8 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.8",
-		"@ctx-core/function": "workspace:^20.0.6",
+		"@ctx-core/dom": "workspace:^11.0.9",
+		"@ctx-core/function": "workspace:^20.0.7",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {

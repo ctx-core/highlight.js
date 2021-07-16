@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.9
+  - @ctx-core/function@20.0.7
+
 ## 5.0.6
 
 ### Patch Changes
