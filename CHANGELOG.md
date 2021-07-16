@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.12
+  - @ctx-core/function@20.0.10
+
 ## 5.0.8
 
 ### Patch Changes
