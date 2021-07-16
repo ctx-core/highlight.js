@@ -1,5 +1,23 @@
 # @ctx-core/highlight.js
 
+## 5.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.7
+  - @ctx-core/function@20.0.5
+
+## 5.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.6
+  - @ctx-core/function@20.0.4
+
 ## 5.0.3
 
 ### Patch Changes
