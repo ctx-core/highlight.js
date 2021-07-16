@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.8
+  - @ctx-core/function@20.0.6
+
 ## 5.0.5
 
 ### Patch Changes
