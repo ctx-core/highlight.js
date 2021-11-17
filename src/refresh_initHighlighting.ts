@@ -1,5 +1,5 @@
-import { tick } from '@ctx-core/function'
 import { has_dom } from '@ctx-core/dom'
+import { tick } from '@ctx-core/function'
 import type { HLJSApi } from './HLJSApi.js'
 /**
  * Calls `hljs.initHighlighting` in a DOM environment with dynamically loaded content.
