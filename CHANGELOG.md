@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 5.0.34
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/dom@11.0.39
+
 ## 5.0.33
 
 ### Patch Changes
