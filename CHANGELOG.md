@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.37
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/dom@11.0.42
+  - @ctx-core/function@20.2.14
+
 ## 5.0.36
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.0.36",
+	"version": "5.0.37",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -12,12 +12,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/highlight.js/issues"
+		"url": "https://github.com/ctx-core/highlight.js.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
+	"exports": {
+		".": {
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
+		},
+		"./package.json": "./package.json"
+	},
 	"scripts": {
 		"build": "npm run compile",
 		"clean": "rimraf dist",
@@ -26,8 +32,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.41",
-		"@ctx-core/function": "workspace:^20.2.13"
+		"@ctx-core/dom": "workspace:^11.0.42",
+		"@ctx-core/function": "workspace:^20.2.14"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
