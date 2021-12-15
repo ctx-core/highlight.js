@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.36
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/dom@11.0.41
+  - @ctx-core/function@20.2.13
+
 ## 5.0.35
 
 ### Patch Changes
