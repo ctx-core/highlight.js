@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.40
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/dom@11.0.46
+  - @ctx-core/function@20.2.18
+
 ## 5.0.39
 
 ### Patch Changes
