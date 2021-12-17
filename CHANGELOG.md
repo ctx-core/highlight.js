@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.41
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/dom@11.0.48
+  - @ctx-core/function@20.2.20
+
 ## 5.0.40
 
 ### Patch Changes
