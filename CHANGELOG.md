@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.42
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+  - @ctx-core/function@20.2.21
+
 ## 5.0.41
 
 ### Patch Changes
