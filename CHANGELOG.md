@@ -1,5 +1,15 @@
 # @ctx-core/highlight.js
 
+## 5.0.44
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- highlight.js: ^11.3.1 -> ^11.4.0
+- Updated dependencies
+  - @ctx-core/dom@11.1.4
+  - @ctx-core/function@20.2.24
+
 ## 5.0.43
 
 ### Patch Changes
