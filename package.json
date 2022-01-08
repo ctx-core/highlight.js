@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.0.44",
+	"version": "5.0.45",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.1.4",
-		"@ctx-core/function": "workspace:^20.2.24"
+		"@ctx-core/dom": "workspace:^11.1.5",
+		"@ctx-core/function": "workspace:^20.2.25"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
@@ -49,5 +49,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
