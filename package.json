@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.0.47",
+	"version": "5.0.48",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.153",
-		"highlight.js": "^11.4.0",
+		"highlight.js": "^11.5.0",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
