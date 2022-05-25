@@ -33,12 +33,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.1.19",
+		"@ctx-core/dom": "^11.1.21",
 		"@ctx-core/function": "^20.8.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.189",
+		"@swc/core": "^1.2.192",
 		"highlight.js": "^11.5.1",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
