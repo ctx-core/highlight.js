@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/dom": "^11.1.28",
-		"@ctx-core/function": "^21.1.0"
+		"@ctx-core/function": "^21.1.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
