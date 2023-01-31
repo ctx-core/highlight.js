@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.0.92
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+  - @ctx-core/function@21.6.1
+
 ## 5.0.91
 
 ### Patch Changes
