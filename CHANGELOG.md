@@ -1,5 +1,11 @@
 # @ctx-core/highlight.js
 
+## 5.0.95
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 5.0.94
 
 ### Patch Changes
