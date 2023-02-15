@@ -37,7 +37,7 @@
 		"@ctx-core/function": "^21.6.1"
 	},
 	"devDependencies": {
-		"@swc/cli": "^0.1.61",
+		"@swc/cli": "^0.1.62",
 		"@swc/core": "^1.3.35",
 		"highlight.js": "^11.7.0",
 		"rimraf": "^4.1.2",
