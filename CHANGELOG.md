@@ -1,5 +1,15 @@
 # @ctx-core/highlight.js
 
+## 5.1.28
+
+### Patch Changes
+
+- @ctx-core/function: ^21.9.0 -> ^21.10.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.4.25
+  - @ctx-core/function@21.10.1
+
 ## 5.1.27
 
 ### Patch Changes
