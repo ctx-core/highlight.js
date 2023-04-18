@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/dom": "^14.1.12",
-		"@ctx-core/function": "^21.17.0",
+		"@ctx-core/function": "^21.17.12",
 		"highlight.js": "^11.7.0"
 	},
 	"devDependencies": {
