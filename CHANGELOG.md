@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.1.93
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/dom@14.1.31
+  - @ctx-core/function@21.17.19
+
 ## 5.1.92
 
 ### Patch Changes
