@@ -1,5 +1,11 @@
 # @ctx-core/highlight.js
 
+## 5.1.97
+
+### Patch Changes
+
+- highlight.js: ^11.7.0 -> ^11.8.0
+
 ## 5.1.96
 
 ### Patch Changes
