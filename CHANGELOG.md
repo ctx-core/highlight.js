@@ -1,5 +1,25 @@
 # @ctx-core/highlight.js
 
+## 5.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.1.0
+  - @ctx-core/function@21.21.0
+
 ## 5.1.150
 
 ### Patch Changes
