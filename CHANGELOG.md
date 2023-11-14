@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/dom@15.1.2
+  - @ctx-core/function@21.21.2
+
 ## 5.2.1
 
 ### Patch Changes
