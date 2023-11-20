@@ -1,5 +1,12 @@
 # @ctx-core/highlight.js
 
+## 5.2.19
+
+### Patch Changes
+
+- @ctx-core/dom: ^15.1.18 -> ^15.1.19
+- @ctx-core/function: ^21.22.13 -> ^21.22.14
+
 ## 5.2.18
 
 ### Patch Changes
