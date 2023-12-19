@@ -1,8 +1,9 @@
+/// <reference types="../_types/index.d.ts" />
 import { has_dom } from '@ctx-core/dom'
-import { tick } from '@ctx-core/function'
+import { tick } from 'ctx-core/function'
 /**
  * Calls `hljs.initHighlighting` in a DOM environment with dynamically loaded content.
- * @param {import('../_types/index.js').HLJSApi} hljs
+ * @param {HLJSApi} hljs
  */
 export async function initHighlighting__refresh(hljs) {
 	if (has_dom) {
