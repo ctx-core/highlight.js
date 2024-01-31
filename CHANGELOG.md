@@ -1,5 +1,14 @@
 # @ctx-core/highlight.js
 
+## 5.2.131
+
+### Patch Changes
+
+- patch:
+
+      - ∋ @ctx-core/dom
+      optimize imports
+
 ## 5.2.130
 
 ### Patch Changes
