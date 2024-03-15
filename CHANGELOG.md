@@ -1,5 +1,11 @@
 # @ctx-core/highlight.js
 
+## 5.2.160
+
+### Patch Changes
+
+- ctx-core: ^6.5.6 -> ^6.5.7
+
 ## 5.2.159
 
 ### Patch Changes
