@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 5.2.165
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 5.2.164
 
 ### Patch Changes

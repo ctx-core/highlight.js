@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.2.164",
+	"version": "5.2.165",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/highlight.js.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-highlightjs@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -40,7 +44,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.6.0",
+		"ctx-core": "^6.6.1",
 		"highlight.js": "^11.9.0"
 	},
 	"devDependencies": {
