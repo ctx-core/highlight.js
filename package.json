@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/highlight.js",
-	"version": "5.2.191",
+	"version": "5.2.192",
 	"description": "ctx-core highlight.js",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^7.2.8",
+		"ctx-core": "^7.2.9",
 		"highlight.js": "^11.9.0"
 	},
 	"devDependencies": {
