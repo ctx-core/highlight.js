@@ -1,5 +1,13 @@
 # @ctx-core/highlight.js
 
+## 5.2.217
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 5.2.216
 
 ### Patch Changes
